@@ -18,14 +18,6 @@ const dashBoardNavTree = [
         submenu: [],
       },
       {
-        key: "planner",
-        path: `${APP_PREFIX_PATH}/home/default/planner`,
-        title: "Планировщик",
-        icon: DashboardOutlined,
-        breadcrumb: false,
-        submenu: [],
-      },
-      {
         key: "catalog",
         path: `${APP_PREFIX_PATH}/home/default/catalog`,
         title: "Каталог",
