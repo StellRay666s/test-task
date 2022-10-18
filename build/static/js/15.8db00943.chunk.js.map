@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/Clients/ClientsGroup/index.js"],"names":["ClientGroup"],"mappings":"mGAAA,uBAMeA,UAJf,WACE,OAAO,6CACT,C","file":"static/js/15.8db00943.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nfunction ClientGroup() {\r\n  return <div>ClientGroup</div>;\r\n}\r\n\r\nexport default ClientGroup;\r\n"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/Planner/index.js"],"names":["Planner"],"mappings":"mGAAA,uBAMeA,UAJf,WACE,OAAO,yCACT,C","file":"static/js/16.de60027f.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nfunction Planner() {\r\n  return <div>Planner</div>;\r\n}\r\n\r\nexport default Planner;\r\n"],"sourceRoot":""}
